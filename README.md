@@ -16,7 +16,7 @@ The aim is to analyze indepthly and answer certain questions on the performances
 
 
 #Findings:
-140 unit each of products sold across Canada, France, Germany, Mexico and United states respectively resulted in  a revenue of N25nillion plus to the business (all thanks to the best performaance of Paseo product) despite the high discount band.(This is a a good move). October recorded the higheest performing month that leveraged goOvernment segment to produce the largest share on profit.
+140 unit each of products sold across Canada, France, Germany, Mexico and United states respectively resulted in  a revenue of N25nillion plus to the business (all thanks to the best performaance of Paseo product) despite the high discount band.(This is a a good move). October recorded the highest performing month that leveraged government segment to produce the largest share on profit.
 
 
 #Recommendations.
