@@ -1,3 +1,4 @@
+[Financial Sample.xlsx](https://github.com/Abimbola1985/Abimbola-babystep-in-Data-Analytics/files/14894843/Financial.Sample.xlsx)
 # Abimbola-babystep-in-Data-Analytics
 
 
